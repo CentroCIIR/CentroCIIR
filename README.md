@@ -1,5 +1,5 @@
 
-[![matdknu twitter](https://img.shields.io/badge/Twitter-@CentroCIIR-00aced.svg?style=flat&logo=twitter)](https://twitter.com/CentroCIIR)
+[![CentroCIIR twitter](https://img.shields.io/badge/Twitter-@CentroCIIR-00aced.svg?style=flat&logo=twitter)](https://twitter.com/CentroCIIR)
 
 ### Hola a todxs  👋
 
