@@ -9,4 +9,5 @@ CIIR es un centro de investigación que busca aportar al país con estudios de a
 
 # Encuesta Longitudinal de Relaciones Interculturales
 
+Para acceder a las bases de datos escribir a elri@uc.cl
 
